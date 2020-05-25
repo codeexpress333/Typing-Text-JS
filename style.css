@@ -1,0 +1,21 @@
+html, body {
+    font-family: Impact;
+    padding: 1rem 2rem;
+    font-size: 18px;
+    background: #333;
+    color: #ddd;
+}
+
+h1, h2 {
+    font-weight: 200;
+    margin: 0.4rem 0;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
